@@ -4,3 +4,4 @@ Estado del Proyecto: en construcción.
 Para ejecutar el sitema debe poner:
 
 ````npm install react````
+Sistema de Registro 2
